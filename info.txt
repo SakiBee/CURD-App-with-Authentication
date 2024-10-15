@@ -1,6 +1,0 @@
-Flask setup:
-1. flask (pip install flask)
-2. flask-login
-3. flask sqlalchemy
-
-Creating a Flask App
